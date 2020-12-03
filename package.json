@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"repro": "tsc --build --verbose"
+	},
+	"dependencies": {
+		"typescript": "^4.2.0-dev.20201202"
+	}
+}
